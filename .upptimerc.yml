@@ -12,6 +12,12 @@ sites:
     url: https://coronacoa.ch/
   - name: deepecon
     url: https://www.deepecon.com/
+  - name: worldanxiety
+    url: https://worldanxietymap.com/
+  - name: other
+    url: $OTHER_SITE
+  - name: other2
+    url: $OTHER2_SITE
 
 
 status-website:
