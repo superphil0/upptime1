@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 366,
-    "timeDay": 332,
-    "timeWeek": 232,
-    "timeMonth": 276,
-    "timeYear": 366,
+    "time": 365,
+    "timeDay": 251,
+    "timeWeek": 234,
+    "timeMonth": 273,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2021-01-25": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 114,
-    "timeWeek": 106,
+    "time": 151,
+    "timeDay": 103,
+    "timeWeek": 105,
     "timeMonth": 119,
-    "timeYear": 152,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 124,
-    "timeWeek": 234,
-    "timeMonth": 170,
-    "timeYear": 212,
+    "time": 211,
+    "timeDay": 99,
+    "timeWeek": 230,
+    "timeMonth": 169,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 720,
-    "timeDay": 874,
-    "timeWeek": 725,
+    "timeDay": 820,
+    "timeWeek": 724,
     "timeMonth": 745,
     "timeYear": 720,
     "dailyMinutesDown": {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 216,
-    "timeDay": 62,
-    "timeWeek": 91,
+    "time": 215,
+    "timeDay": 88,
+    "timeWeek": 87,
     "timeMonth": 97,
-    "timeYear": 216,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2021-01-12": 30
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1045,
-    "timeDay": 1169,
-    "timeWeek": 1071,
-    "timeMonth": 1147,
-    "timeYear": 1045,
+    "time": 1047,
+    "timeDay": 1272,
+    "timeWeek": 1077,
+    "timeMonth": 1139,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2021-02-27": 72,
       "2021-02-26": 52,
