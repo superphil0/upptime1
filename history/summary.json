@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 344,
-    "timeDay": 318,
-    "timeWeek": 445,
-    "timeMonth": 428,
+    "time": 345,
+    "timeDay": 590,
+    "timeWeek": 457,
+    "timeMonth": 439,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2021-07-07": 27,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 117,
-    "timeWeek": 197,
-    "timeMonth": 132,
+    "timeDay": 123,
+    "timeWeek": 175,
+    "timeMonth": 133,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 88,
-    "timeWeek": 80,
+    "time": 178,
+    "timeDay": 69,
+    "timeWeek": 70,
     "timeMonth": 91,
-    "timeYear": 178,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 748,
-    "timeDay": 528,
-    "timeWeek": 723,
-    "timeMonth": 735,
+    "time": 749,
+    "timeDay": 907,
+    "timeWeek": 730,
+    "timeMonth": 736,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2021-07-07": 72,
@@ -85,18 +85,19 @@
     "icon": "https://favicons.githubusercontent.com/worldanxietymap.com",
     "slug": "worldanxiety",
     "status": "down",
-    "uptime": "61.87%",
+    "uptime": "61.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.87%",
+    "uptimeYear": "61.70%",
     "time": 167,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-01-03": 29,
+      "2022-01-04": 30,
+      "2022-01-03": 1440,
       "2022-01-02": 1440,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
@@ -251,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
-    "time": 1096,
-    "timeDay": 1047,
-    "timeWeek": 1352,
-    "timeMonth": 1187,
-    "timeYear": 1096,
+    "time": 1095,
+    "timeDay": 1009,
+    "timeWeek": 1346,
+    "timeMonth": 1181,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2021-09-03": 29,
       "2021-08-25": 520,
@@ -263,8 +264,7 @@
       "2021-08-23": 351,
       "2021-07-31": 18,
       "2021-02-27": 72,
-      "2021-02-26": 52,
-      "2021-01-04": 1
+      "2021-02-26": 52
     }
   },
   {
@@ -283,8 +283,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-01-04": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
