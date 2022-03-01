@@ -43,9 +43,9 @@
     "url": "https://coronacoa.ch/",
     "icon": "https://favicons.githubusercontent.com/coronacoa.ch",
     "slug": "coronacoach",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 151,
     "timeMonth": 128,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "deepecon",
@@ -83,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/worldanxietymap.com",
     "slug": "worldanxiety",
     "status": "down",
-    "uptime": "53.48%",
+    "uptime": "53.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "46.41%",
+    "uptimeYear": "46.24%",
     "time": 167,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2022-03-01": 38,
+      "2022-03-01": 917,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
