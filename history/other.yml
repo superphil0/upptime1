@@ -1,7 +1,7 @@
 url: $OTHER_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-09T04:57:11.245Z
+status: up
+code: 200
+responseTime: 2032
+lastUpdated: 2023-11-09T05:17:35.956Z
 startTime: 2021-01-04T11:36:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
