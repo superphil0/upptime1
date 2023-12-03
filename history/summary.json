@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pocketcoach.co.ico",
     "slug": "pocketcoach",
     "status": "down",
-    "uptime": "50.47%",
+    "uptime": "50.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 215,
-    "timeDay": 238,
-    "timeWeek": 177,
+    "timeDay": 231,
+    "timeWeek": 186,
     "timeMonth": 186,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-12-02": 280,
+      "2023-12-03": 41,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -379,8 +380,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamfeelinganxious.com.ico",
     "slug": "i-am-feeling-anxious",
     "status": "down",
-    "uptime": "84.77%",
+    "uptime": "84.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.81%",
+    "uptimeYear": "55.58%",
     "time": 233,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 235,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-12-02": 280,
+      "2023-12-03": 41,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -574,7 +575,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coronacoa.ch.ico",
     "slug": "coronacoach",
     "status": "down",
-    "uptime": "40.09%",
+    "uptime": "40.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -585,7 +586,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-02": 280,
+      "2023-12-03": 41,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -948,8 +950,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -964,9 +965,9 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.83%",
     "time": 330,
-    "timeDay": 396,
-    "timeWeek": 318,
-    "timeMonth": 374,
+    "timeDay": 320,
+    "timeWeek": 315,
+    "timeMonth": 373,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2023-11-18": 307,
@@ -980,7 +981,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldanxietymap.com.ico",
     "slug": "worldanxiety",
     "status": "down",
-    "uptime": "21.24%",
+    "uptime": "21.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -991,7 +992,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-02": 280,
+      "2023-12-03": 41,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -1354,8 +1356,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -1365,17 +1366,16 @@
     "slug": "other",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.81%",
-    "time": 1691,
-    "timeDay": 1723,
-    "timeWeek": 1567,
-    "timeMonth": 1860,
-    "timeYear": 1719,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.82%",
+    "time": 1695,
+    "timeDay": 2831,
+    "timeWeek": 1821,
+    "timeMonth": 1910,
+    "timeYear": 1723,
     "dailyMinutesDown": {
-      "2023-12-02": 12,
       "2023-11-25": 24,
       "2023-11-23": 20,
       "2023-11-09": 20,
@@ -1396,8 +1396,7 @@
       "2023-03-31": 18,
       "2022-12-31": 102,
       "2022-12-30": 0,
-      "2022-12-09": 31,
-      "2022-12-03": 59
+      "2022-12-09": 31
     }
   },
   {
