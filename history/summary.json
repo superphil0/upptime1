@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pocketcoach.co.ico",
     "slug": "pocketcoach",
     "status": "down",
-    "uptime": "33.94%",
+    "uptime": "33.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 219,
-    "timeDay": 182,
-    "timeWeek": 202,
-    "timeMonth": 341,
-    "timeYear": 227,
+    "timeDay": 187,
+    "timeWeek": 203,
+    "timeMonth": 342,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-05-06": 58,
+      "2025-05-07": 58,
+      "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -379,8 +380,7 @@
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
-      "2024-05-08": 1440,
-      "2024-05-07": 1440
+      "2024-05-08": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamfeelinganxious.com.ico",
     "slug": "i-am-feeling-anxious",
     "status": "down",
-    "uptime": "57.00%",
+    "uptime": "56.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 58,
+      "2025-05-07": 58,
+      "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -763,8 +764,7 @@
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
-      "2024-05-08": 1440,
-      "2024-05-07": 1440
+      "2024-05-08": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coronacoa.ch.ico",
     "slug": "coronacoach",
     "status": "down",
-    "uptime": "26.96%",
+    "uptime": "26.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 58,
+      "2025-05-07": 58,
+      "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -1147,8 +1148,7 @@
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
-      "2024-05-08": 1440,
-      "2024-05-07": 1440
+      "2024-05-08": 1440
     }
   },
   {
@@ -1163,9 +1163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 339,
-    "timeWeek": 315,
-    "timeMonth": 331,
+    "timeDay": 278,
+    "timeWeek": 317,
+    "timeMonth": 333,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -1175,7 +1175,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldanxietymap.com.ico",
     "slug": "worldanxiety",
     "status": "down",
-    "uptime": "14.25%",
+    "uptime": "14.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1186,7 +1186,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 58,
+      "2025-05-07": 58,
+      "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -1549,8 +1550,7 @@
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
-      "2024-05-08": 1440,
-      "2024-05-07": 1440
+      "2024-05-08": 1440
     }
   },
   {
@@ -1565,10 +1565,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1641,
-    "timeDay": 1400,
-    "timeWeek": 1634,
-    "timeMonth": 1613,
-    "timeYear": 1651,
+    "timeDay": 1455,
+    "timeWeek": 1571,
+    "timeMonth": 1618,
+    "timeYear": 1652,
     "dailyMinutesDown": {}
   },
   {
